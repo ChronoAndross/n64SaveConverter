@@ -1,4 +1,7 @@
 # n64SaveConverter
+
+## NOTE: This repo has officially been deprecated. Please refer to https://github.com/Ninjiteu/N64SaveConverter for the latest developments on this project.
+
 Converts n64 save files to all available types of n64 save formats.
 
 Setup/Compatibility
